@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sg-props/daedalus/light_bottom"
+	"$selfillum" 1
+	"$model" 1
+}

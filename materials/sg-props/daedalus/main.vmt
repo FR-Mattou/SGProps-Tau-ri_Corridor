@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "sg-props/daedalus/main"
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$bumpmap" "lazor/stripes_normal"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongboost"   "0.9"
+ 	"$phongfresnelranges"   "[0 0 0.5]"
+		
+}

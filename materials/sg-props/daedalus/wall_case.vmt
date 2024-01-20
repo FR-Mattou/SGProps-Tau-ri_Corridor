@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "sg-props/daedalus/wall_case"
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$bumpmap" "sg-props/daedalus/floor"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongboost"   "0.8"
+ 	"$phongfresnelranges"   "[0.08 0.17 0.95]"
+}

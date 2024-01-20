@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sg-props/daedalus/beam"
+	"$surfaceprop" "metal"
+
+	"$model" 1
+	"$bumpmap" "sg-props/daedalus/floor_nrm"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[0.01 0.22 0.95]"
+}

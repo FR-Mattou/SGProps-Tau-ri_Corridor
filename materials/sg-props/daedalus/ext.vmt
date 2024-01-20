@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "cmats/base_dark_border"
+	"$surfaceprop" "metal"
+
+	"$model" 1
+	"$bumpmap" "cmats/base_dark_border_b"
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[0.01 0.22 0.95]"
+}
