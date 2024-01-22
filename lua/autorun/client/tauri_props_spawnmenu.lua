@@ -36,7 +36,6 @@ local props = {
 
 hook.Add( "PopulatePropMenu", "[Mattou]Tau'ri Props", function()
     local contents = {}
-    contents = spawnmenu.GetPropTable()
     
 --//Small
     table.insert( contents, {
@@ -77,5 +76,5 @@ hook.Add( "PopulatePropMenu", "[Mattou]Tau'ri Props", function()
         })
     end
 
-    spawnmenu.AddPropCategory( "sg_props", "SG - Props", contents, "" )
+    spawnmenu.AddPropCategory( "sg_props_tauriprops", "SG-Props - Tau'ri", contents, "" )
 end)
